@@ -35,7 +35,7 @@ The game supports **Player vs Player** and **Player vs AI** modes, with full che
 ## 🛠️ Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/USERNAME/ChessGame.git
+git clone https://github.com/ahmad-irsheid/chess_game.git
 cd ChessGame
 
 
@@ -118,7 +118,7 @@ Author: Ahmad Rami Irsheid
 bash
 Copy
 Edit
-git clone https://github.com/USERNAME/ChessGame.git
+git clone https://github.com/ahmad-irsheid/chess_game.git
 cd ChessGame
 تثبيت المكتبات المطلوبة:
 
@@ -132,3 +132,4 @@ bash
 Copy
 Edit
 python gui.py
+
